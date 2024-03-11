@@ -34,7 +34,7 @@ THEN the saved events persist
 
 The following resources were utilized in the development of this project:
 
-* MDN Web Docs on Javascript and Third-Party APIs;
+* https://developer.mozilla.org;
 
 * https://jQuery.com;
 
