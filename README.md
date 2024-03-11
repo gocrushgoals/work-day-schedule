@@ -4,6 +4,9 @@
 
 This project aims to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. The application will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+![Screenshot](https://github.com/gocrushgoals/work-day-schedule/assets/157322992/1e1f4346-e7a7-43d9-8237-ea602e7037b2)
+
+
 ## Installation
 
 This application runs in a browser while its HTML, CSS, JS, images, and README files are accessed through the author's GitHub repository at https://github.com/gocrushgoals/work-day-schedule
